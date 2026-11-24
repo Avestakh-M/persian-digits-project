@@ -1,0 +1,9 @@
+%%writefile .gitignore
+*.keras
+*.h5
+*.zip
+data/
+outputs/*
+!outputs/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
